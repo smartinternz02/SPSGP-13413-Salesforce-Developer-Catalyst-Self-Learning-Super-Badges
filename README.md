@@ -7,15 +7,15 @@ https://trailhead.salesforce.com/en/users/trailblazerconnect/trailmixes/salesfor
 
 https://trailhead.salesforce.com/en/content/learn/modules/apex_triggers
 
-# Apex Testing -->  
+# Apex Testing Module-->  
 
 https://trailhead.salesforce.com/content/learn/modules/apex_testing
 
-# Asynchronous Apex --> 
+# Asynchronous Apex Module--> 
 
 https://trailhead.salesforce.com/en/content/learn/modules/asynchronous_apex
 
-# Apex Integration Services --> 
+# Apex Integration Services Module--> 
 
 https://trailhead.salesforce.com/en/content/learn/modules/apex_integration_services
 
